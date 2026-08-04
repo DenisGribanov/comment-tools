@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://comment-tools.ru/sitemap.xml
